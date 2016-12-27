@@ -1,0 +1,89 @@
+
+//Header 
+
+.logo{
+	margin-top: 30px;
+	margin-left: -320px;
+}
+
+fieldset{
+	margin-left: 750px;
+	margin-top: -60px;
+}
+.buscador{
+	width:20px;
+	height: 50px;
+	padding-right: 120px;
+}
+
+.determinante{
+	margin-top: 20px;
+}
+
+
+
+div.background {
+	
+    border: 2px solid black;
+}
+
+div.transbox {
+    margin: 0px;
+    background-color: #ffffff;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+    margin-top: -90px;
+}
+
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+
+
+.navbar-nav{
+	background-color: $fondo;
+	border-bottom: $borde-seccion; 
+}
+
+.btn {
+    border-bottom: 1px solid #ea4748;
+    padding-bottom: 8px;
+    position: relative;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.lupa {
+	width:15px;
+}
+
+
+i{
+	color: #ffc107;
+
+}
+
+.fondo{
+	background-image: url(../img/1.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+
+
+#footer {
+    height: auto;
+    width: 100%;
+    bottom: 0;
+    padding: 20px 0 0 0;
+    border-bottom: 4px solid #ea4748;
+    float: left;
+    background: #fafafa;
+    display: block;
+
+}
